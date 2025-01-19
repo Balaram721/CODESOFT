@@ -1,7 +1,7 @@
 import random
 
 def rock_paper_scissors():
-    print("\n--- Welcome to Rock, Paper, Scissors Game ---")
+    print("\n--- Welcome to Rock, Paper, Scissors Game !! ---")
     user_score = 0
     computer_score = 0
 
