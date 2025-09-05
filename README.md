@@ -4,25 +4,25 @@ The projects focus on building problem–solving skills and applying core Python
 
 🔹 Projects Included:
 
-To-Do List 
+# To-Do List        
 A simple task management application.
 Features: add, view, update, and delete tasks.
 Helps understand file handling and basic CRUD operations.
 
-Basic Calculator  
+# Basic Calculator      
 Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 Built with a clean structure to practice functions and user input handling.
 
-Simple Password Generator 
+# Simple Password Generator          
 Generates secure and random passwords.
 Options for length and character combinations (letters, numbers, symbols).
 Focus on Python’s random and string modules.
 
-Contact Book
+# Contact Book        
 A mini-address book to store, search, update, and delete contact details.
 Reinforces concepts of dictionaries, loops, and file storage.
 
-Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game    
 A fun command-line game where the user plays against the computer.
 Strengthened understanding of conditional logic and randomization.
 
